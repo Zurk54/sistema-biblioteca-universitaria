@@ -1,0 +1,4 @@
+# Decisiones del sistema
+
+
+## Objetivo
