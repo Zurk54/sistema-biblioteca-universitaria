@@ -1,5 +1,4 @@
-#Decisiones del sistema
+# Decisiones del sistema
 
 
-## Objetivo 
-
+## Objetivo
