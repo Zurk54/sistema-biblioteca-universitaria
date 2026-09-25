@@ -12,9 +12,5 @@ El sistema debe controlar el inventario de libros y registrar las fechas de sali
 
 
 
-<<<<<<< HEAD
-Los estudiantes podran solicitar hasta 4 libros.
-=======
-Los estudiantes podran solicitar hasta 6 libros.
->>>>>>> origin/conflicto/requisitos-p2-final
+Los estudiantes podran solicitar hasta 5 libros.
 
